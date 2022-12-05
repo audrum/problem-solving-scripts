@@ -5,4 +5,4 @@ while num <= 100:
         print(num)
     result += num
     num += 1
-print(f"La suma de todos los multiplos es {result}")
+print(f"The sum of all multiples is {result}")
